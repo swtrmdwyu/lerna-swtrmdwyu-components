@@ -1,7 +1,7 @@
 {
-  "name": "swtrmdwyu-components",
+  "name": "sp-components",
   "private": false,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -47,5 +47,6 @@
     "src/styles/*",
     "src/index.css",
     "src/components/**/*"
-  ]
+  ],
+  "gitHead": "1caabee8c4410e5948a7101032c6621c8f0b4238"
 }
